@@ -1,0 +1,22 @@
+export const initialTransactions = [
+  { id: 1, date: '2026-03-02', description: 'Salary Deposit', amount: 4800, category: 'Salary', type: 'income' },
+  { id: 2, date: '2026-03-03', description: 'Apartment Rent', amount: 1650, category: 'Housing', type: 'expense' },
+  { id: 3, date: '2026-03-04', description: 'Whole Foods', amount: 92, category: 'Groceries', type: 'expense' },
+  { id: 4, date: '2026-03-05', description: 'Uber Ride', amount: 24, category: 'Transport', type: 'expense' },
+  { id: 5, date: '2026-03-07', description: 'Freelance Payment', amount: 620, category: 'Freelance', type: 'income' },
+  { id: 6, date: '2026-03-08', description: 'Netflix', amount: 18, category: 'Subscriptions', type: 'expense' },
+  { id: 7, date: '2026-03-10', description: 'Dining Out', amount: 56, category: 'Food', type: 'expense' },
+  { id: 8, date: '2026-03-11', description: 'Electric Bill', amount: 88, category: 'Utilities', type: 'expense' },
+  { id: 9, date: '2026-03-12', description: 'Coffee Shop', amount: 11, category: 'Food', type: 'expense' },
+  { id: 10, date: '2026-03-13', description: 'Investment Dividend', amount: 140, category: 'Investments', type: 'income' },
+  { id: 11, date: '2026-03-15', description: 'Pharmacy', amount: 34, category: 'Health', type: 'expense' },
+  { id: 12, date: '2026-03-17', description: 'Gym Membership', amount: 45, category: 'Health', type: 'expense' },
+  { id: 13, date: '2026-03-19', description: 'Amazon Order', amount: 129, category: 'Shopping', type: 'expense' },
+  { id: 14, date: '2026-03-21', description: 'Savings Transfer', amount: 500, category: 'Savings', type: 'expense' },
+  { id: 15, date: '2026-03-23', description: 'Sold Old Monitor', amount: 170, category: 'Other Income', type: 'income' },
+  { id: 16, date: '2026-03-24', description: 'Fuel', amount: 67, category: 'Transport', type: 'expense' },
+  { id: 17, date: '2026-03-25', description: 'Phone Bill', amount: 59, category: 'Utilities', type: 'expense' },
+  { id: 18, date: '2026-03-27', description: 'Dinner with Friends', amount: 81, category: 'Food', type: 'expense' },
+  { id: 19, date: '2026-03-28', description: 'Bonus', amount: 900, category: 'Salary', type: 'income' },
+  { id: 20, date: '2026-03-30', description: 'Book Purchase', amount: 26, category: 'Education', type: 'expense' }
+];
